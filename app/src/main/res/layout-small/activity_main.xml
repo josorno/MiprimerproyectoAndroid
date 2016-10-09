@@ -19,7 +19,7 @@
         android:layout_centerHorizontal="true"
         android:text="@string/bienvenida"
         android:textColor="@android:color/white"
-        android:textSize="96sp" />
+        android:textSize="24sp" />
 
     <Button
         android:id="@+id/button2"
@@ -27,9 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView4"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="33dp"
         android:text="@string/texto_boton"
         android:textAppearance="@style/TextAppearance.AppCompat"
-        android:textColor="@android:color/background_light"
-        android:textSize="64sp" />
+        android:textColor="@android:color/background_light" />
 </RelativeLayout>
